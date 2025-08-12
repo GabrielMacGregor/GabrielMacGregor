@@ -1,13 +1,13 @@
 # Hi there, I'm Gabriel Garcia Alpin Mac Gregor 👋
 
-🎓 **Computer Engineering student** at PUC-Rio (graduating in 2025)  
+🎓 **Computer Engineering student** at PUC-Rio (graduating in 2026)  
 📊 Passionate about **Data Science, Machine Learning, and turning data into insights**
 
 ---
 
 ## 🚀 About Me
 - 🔍 Transforming raw data into actionable insights  
-- 🧠 Skilled in **Python, SQL, VBA, C#, HTML**  
+- 🧠 Skilled in **Python, SQL, VBA, C#**  
 - 📈 Experienced with **Pandas, scikit-learn, XGBoost, Power BI, Jupyter**  
 - 💼 Former **Data Analyst at Monet Investimentos** — automation, dashboards, client prioritization
 
@@ -34,7 +34,7 @@
 
 ## 🌍 Beyond Work
 - ✈️ Visited all **7 Wonders of the Modern World**  
-- 🗣 Languages: **English (fluent)**, **Spanish (intermediate)**, **Chinese (basic)**  
+- 🗣 Languages: **English (fluent)**, **Portuguese (fluent)**  
 - 🎮 Loves strategy games and exploring data-driven decisions
 
 ---
