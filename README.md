@@ -41,7 +41,7 @@
 
 ## 📫 Contact Me
 📧 **Email:** [gabrielmacgreg@gmail.com](mailto:gabrielmacgreg@gmail.com)  
-💼 **LinkedIn:** [Your LinkedIn Link]  
+💼 **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/gabriel-mac-gregor/)  
 
 ---
 
