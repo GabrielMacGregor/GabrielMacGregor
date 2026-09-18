@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel Mac Gregor 👋
 
-🎓 **Computer Engineering student** at PUC-Rio (graduating in 2026.1)  
+🎓 **Computer Engineering student** at PUC-Rio (graduating in 2026.2)  
 📊 Passionate about **Data Science, Machine Learning, and turning data into insights**
 
 ---
