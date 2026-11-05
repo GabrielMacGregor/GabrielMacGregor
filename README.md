@@ -4,7 +4,7 @@
 
 `PySpark` · `Spark SQL` · `Delta Lake` · `Power BI`
 
-📍 Rio de Janeiro, Brazil · Open to remote roles based in Brazil  
+📍 Rio de Janeiro, Brazil · Open to remote opportunities worldwide that allow working from Brazil.  
 [LinkedIn](https://www.linkedin.com/in/gabriel-mac-gregor/) · [Email](mailto:gabrielmacgreg@gmail.com)
 
 ## About Me
@@ -14,6 +14,8 @@ I build data pipelines on Microsoft Fabric, from ingestion to historical modelin
 ## Featured Project
 
 ### [Global Cost of Living vs Developer Salaries](https://github.com/GabrielMacGregor/cost-of-living-dashboard)
+
+[**Live Demo**](https://cost-of-living-dashboard-e2mvrkamdujmsavrxvoihk.streamlit.app/) · [**Source Code**](https://github.com/GabrielMacGregor/cost-of-living-dashboard)
 
 An interactive dashboard that compares developer pay and cost of living by country. Its Python pipeline combines four public data sources and records data quality metrics so readers can see what was filtered out along the way.
 
@@ -26,12 +28,12 @@ graph LR
 
 `Python` · `pandas` · `Streamlit` · `Plotly` · `GitHub Actions`
 
-[Explore the code, methodology, and local setup](https://github.com/GabrielMacGregor/cost-of-living-dashboard#quickstart)
+[Run the dashboard locally](https://github.com/GabrielMacGregor/cost-of-living-dashboard#quickstart)
 
 ## Professional Background
 
 **Data Intern · Confederação Nacional do Comércio (CNC)**  
-Build Fabric pipelines and notebooks with PySpark, Spark SQL, and Delta Lake. Implemented SCD Type 2 modeling for Brazil's public CNPJ business registry, with **41 months of historical data processed in production**. Contributed to architecture decisions, metadata cataloging, platform monitoring, and analytics products for the Observatório do Comércio.
+Build Fabric pipelines and notebooks with PySpark, Spark SQL, and Delta Lake. Implemented SCD Type 2 modeling for Brazil's public CNPJ business registry, with **41 monthly reporting periods processed in production**. Contributed to architecture decisions, metadata cataloging, platform monitoring, and analytics products for the Observatório do Comércio.
 
 **Data Analyst · Monet Investimentos**  
 Built Power BI dashboards for financial assets and commercial KPIs using DAX and Power Query. Automated recurring work with Python and VBA.
