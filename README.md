@@ -1,48 +1,40 @@
-# Hi there, I'm Gabriel Mac Gregor 👋
+# Gabriel Mac Gregor
 
-🎓 **Computer Engineering student** at PUC-Rio (graduating in 2026.2)  
-📊 Passionate about **Data Science, Machine Learning, and turning data into insights**
+**Data Engineering | Microsoft Fabric | PySpark | Spark SQL | Delta Lake | Analytics & BI**
 
----
+Based in Brazil and open to remote roles in data engineering, analytics engineering, and BI with teams that hire remotely from Brazil.
 
-## 🚀 About Me
-- 🔍 Transforming raw data into actionable insights  
-- 🧠 Skilled in **Python, SQL, VBA, C#**  
-- 📈 Experienced with **Pandas, scikit-learn, XGBoost, Power BI, Jupyter**  
-- 💼 Former **Data Analyst at Monet Investimentos** — automation, dashboards, client prioritization
+## About Me
 
----
+I build data pipelines on Microsoft Fabric and bring prior experience developing Power BI dashboards for financial and commercial teams. My work spans data ingestion, historical modeling, and reporting.
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+## Featured Project
 
----
+### [Global Cost of Living vs Developer Salaries](https://github.com/GabrielMacGregor/cost-of-living-dashboard)
 
-## 📌 Featured Projects
-- [**Churn Prediction Model**](#) – Predict customer churn with XGBoost and SHAP explainability  
-- [**Time Series Forecasting**](#) – Demand forecasting using Prophet and ARIMA  
-- [**Sentiment Analysis**](#) – Twitter sentiment classification with NLP pipelines  
-- [**Customer Segmentation**](#) – RFM analysis and clustering for marketing strategies
+A Python and pandas pipeline integrates four public data sources through Bronze, Silver, and Gold layers to compare developer salaries and cost of living. It records data quality metrics and feeds an interactive Streamlit dashboard with Plotly charts. GitHub Actions runs linting and automated tests. The repository documents how to run the pipeline and dashboard locally.
 
----
+## Professional Background
 
-## 🌍 Beyond Work
-- ✈️ Visited all **7 Wonders of the Modern World**  
-- 🗣 Languages: **English (fluent)**, **Portuguese (fluent)**  
-- 🎮 Loves strategy games and exploring data-driven decisions
+- **Data Intern · Confederação Nacional do Comércio (CNC)** — Build Fabric pipelines and notebooks with PySpark, Spark SQL, and Delta Lake. Implemented historical SCD Type 2 modeling for Brazil's public CNPJ business registry, with 41 months of historical data processed in production. Contributed to architecture decisions, metadata cataloging, platform monitoring, and analytics products for the Observatório do Comércio.
+- **Data Analyst · Monet Investimentos** — Built Power BI dashboards for financial assets and commercial KPIs using DAX and Power Query. Automated recurring work with Python and VBA.
+- **Financial Analyst · Pentágono DTVM** — Monitored fixed-income transactions, financial indicators, and collateral.
 
----
+## Tech Stack
 
-## 📫 Contact Me
-📧 **Email:** [gabrielmacgreg@gmail.com](mailto:gabrielmacgreg@gmail.com)  
-💼 **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/gabriel-mac-gregor/)  
+| Area | Technologies and practices |
+| --- | --- |
+| Data Engineering | Microsoft Fabric, Python, SQL, PySpark, Spark SQL, Delta Lake, ETL/ELT, medallion architecture, SCD Type 2 |
+| Analytics & BI | Power BI, DAX, Power Query, Excel, VBA, pandas |
+| Development | Git, Azure DevOps, Docker, GitHub Actions |
+| Machine Learning (personal projects) | scikit-learn, XGBoost |
 
----
+## Education & Certification
 
-⭐️ *Check out my pinned repositories to see my latest work in Data Science and Machine Learning!*
+- **B.S. in Computer Engineering**, PUC-Rio · Expected December 2026
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- **Languages:** Portuguese (native), English (fluent)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-mac-gregor/) · [Email](mailto:gabrielmacgreg@gmail.com)
